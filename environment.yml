@@ -20,4 +20,4 @@ dependencies:
   - s3fs
   - boto3
   - geopandas
-prefix: C:\Users\Tobias\miniconda3\envs\ISAT_420
+
